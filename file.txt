@@ -1,0 +1,27 @@
+add brit 778 $500
+charge brit $100
+credit brit $50
+add brian 778 $500
+charge brian $100
+credit brian $50
+add tom 778 $500
+charge tom $100
+credit tom $50
+add jack 778 $500
+charge jack $100
+credit jack $50
+add jill 778 $500
+charge jill $100
+charge jill $100
+charge jill $100
+charge jill $100
+add pop 778 $500
+charge pop $100
+credit pop $50
+credit pop $50
+credit pop $50
+credit pop $50
+charge brit $100
+credit brit $50
+charge brit $100
+credit brit $50
