@@ -1,4 +1,4 @@
-# Coding Challenge
+#Simple Bank
 
 ## Setup
 
