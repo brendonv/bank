@@ -1,5 +1,4 @@
 # Coding Challenge
-## _Brendon Verissimo_
 
 ## Setup
 
